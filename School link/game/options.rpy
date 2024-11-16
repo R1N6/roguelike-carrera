@@ -210,4 +210,6 @@ init python:
 ## Los nombres de usuario y de proyecto asociados con un proyecto itch.io,
 ## separados por una barra.
 
+    config.default_text_cps = 20  # Ajusta este valor a la velocidad de texto que prefieras
+
 # define build.itch_project = "renpytom/test-project"

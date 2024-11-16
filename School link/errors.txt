@@ -2,13 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 1751: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation. You may have forgotten a colon (:).
-    chica "Rayos, casi no me pude concentrar bien, pero gracias a Luna no fue tan mal."
-    ^
-
-File "game/script.rpy", line 1765: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation. You may have forgotten a colon (:).
-    show amiga
-    ^
+File "game/script.rpy", line 43: invalid syntax
+            default ruta_normal = False      
+                     ^
 
 Ren'Py Version: Ren'Py 8.2.1.24030407
-Fri Sep 27 18:00:43 2024
+Sat Nov 16 12:06:25 2024
